@@ -1,0 +1,5 @@
+This repo currently contains:
+1. MyFirstDB, a schematized mock database to familiarize with SQLite Studio.
+2. An IMDB data base taken from an outside data source and modeled realistically, with a view included.
+3. The IMDB data source file .csv
+4. A snippet showing a window function query.
